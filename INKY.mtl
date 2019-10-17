@@ -1,0 +1,16 @@
+newmtl ghosty:blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 0.06
+newmtl ghosty:phongE1SG
+illum 4
+Kd 0.17 0.71 0.99
+Ka 0.43 0.43 0.43
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.44 0.44 0.44
+Ns 0.06
